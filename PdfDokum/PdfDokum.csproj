@@ -53,6 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="PdfDescription.docx" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="resim.png" />
